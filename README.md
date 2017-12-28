@@ -1,3 +1,3 @@
 # Projects
 
-This repositoy contains the projects information.
+This repositoy contains information about the projects done during college.
